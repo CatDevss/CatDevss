@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C2BD9,100:A970FF&height=4" />
 
 <p align="center">
-  <img src="assets/Logo_Cat_SemFundo.png" alt="Logo CatDevs" width="300">
+  <img src="assets/Logo_Cat_SemFundo.png" alt="Logo CatDevs" width="350">
 </p>
 
 <h1 align="center">⌞ CatDevs ⌝</h1>
@@ -185,8 +185,6 @@ MODELAGEM DE DADOS   ████████░░ 80%
 </p>
 
 <sub align="center">
-
-<p align="center"><em>A cobrinha acima só aparece depois que o grupo configurar a GitHub Action de "contribution-snake" no repositório de perfil (<code>CatDevss/CatDevss</code>) — passo a passo logo abaixo.</em></p>
 
 </sub>
 
